@@ -1,10 +1,12 @@
   <h1 align="center"><b>Hi , I'm Raj Krithika Balakrishnan</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&amp;color=cyan&amp;size=25&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=100&amp;lines=Raj krithika♥++;Front-End+Developer,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+ <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Raj+krithika♥++;Front-End+Developer,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3">
+  </a></a>
 </p>
 <br>
-<h2 id="-about-me"><picture><img src=""></picture> <strong>About me</strong></h2>
+<h2 id="-about-me"> <strong>About me</strong></h2>
 <p><picture> <img align="right" src="https://user-images.githubusercontent.com/37551474/113611467-3a567d80-9657-11eb-862b-b07b4f105c6f.gif" width="250px"></picture></p>
 <br>
 <ul>
@@ -78,17 +80,15 @@
 <br>
 <div align="center">
 <ul>
-<li>
+
 <a href="https://www.linkedin.com/in/rajkrithikabalakrishnan/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  Raj-%2300acee.svg?color=405DE6&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="linkedin" style="margin-bottom: 5px;">
 </a>
-</li>
+
 <br>
-<li>
 <a href="mailto:mail2krithika1@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail:  Raj-%23EA4335.svg?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" t="mail" style="margin-bottom: 5px;">
 </a>
-</li>
+
 </ul>
 </div>
-<br>
